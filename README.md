@@ -24,3 +24,14 @@ Realiza un algoritmo que permita al usuario ingresar los cuatro valores de las c
 El resultado debe presentar dos cifras decimales y separador de miles.
 
 Además, para el presente ejercicio necesitas importar la librería matemática ```math``` y usar sus componentes de potenciación y radicación.
+
+# ejercicio 3
+Crear 3 variables de texto con al menos 50 caracteres cada una
+
+Realizar 5 tipos de slicing ascendentes diferentes sobre las variables creadas.
+Realizar 5 tipos de slicing descendente diferentes sobre las variables creadas.
+
+# ejercicio 4
+Al final del bloque completaremos un programa que permita calcular la calificación final de un curso de acuerdo al porcentaje de ponderación y la calificación obtenida en cada tarea.
+
+En este ejercicio debes usar formularios si trabajas en Google Colab o la función input si trabajas en otro editor, para solicitar al usuario la calificación obtenida en cada una de las 4 tareas descritas en la tabla, y con esa información debes calcular la calificación final.
